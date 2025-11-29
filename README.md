@@ -41,7 +41,8 @@ In the telecom sector, retaining existing customers is significantly more cost-e
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/nehalss267/TelecomChurnAnalysis.git](https://github.com/nehalss267/TelecomChurnAnalysis.git)
+    git clone https://github.com/nehalss267/TelecomChurnAnalysis.git
+    cd TelecomChurnAnalysis
     ```
 
 2.  **Install dependencies:**
