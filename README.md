@@ -41,13 +41,12 @@ In the telecom sector, retaining existing customers is significantly more cost-e
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/telecom-churn-analysis.git](https://github.com/yourusername/telecom-churn-analysis.git)
-    cd telecom-churn-analysis
+    git clone [https://github.com/nehalss267/TelecomChurnAnalysis.git](https://github.com/nehalss267/TelecomChurnAnalysis.git)
     ```
 
 2.  **Install dependencies:**
     ```bash
-    pip install pandas numpy matplotlib seaborn scikit-learn
+    pip install pandas numpy matplotlib seaborn scikit-learn gradio
     ```
 
 3.  **Place the dataset:**
@@ -55,6 +54,6 @@ In the telecom sector, retaining existing customers is significantly more cost-e
 
 4.  **Run the script:**
     ```bash
-    python telcomchurnanalysis.py
+    python TelecomChurnAnalysis.py
     ```
 ---
