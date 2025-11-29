@@ -54,6 +54,6 @@ In the telecom sector, retaining existing customers is significantly more cost-e
 
 4.  **Run the script:**
     ```bash
-    python TelecomChurnAnalysis.py
+    python telecomchurnanalysisproject.py
     ```
 ---
