@@ -1,7 +1,6 @@
-# 📡 Telecom Customer Churn Prediction
+# Telecom Customer Churn Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-orange)
 ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-green)
 
 ## 📖 Overview
