@@ -14,7 +14,7 @@ In the telecom sector, retaining existing customers is significantly more cost-e
 **The Goal:** Build a predictive model that allows the telecom provider to proactively identify at-risk customers and intervene with retention strategies, thereby reducing revenue loss.
 
 ##Result
-![Telecom Customer Churn Analysis Output using Gradio](Path/to/your/image.png)
+![Telecom Customer Churn Analysis Output using Gradio](https://github.com/nehalss267/TelecomChurnAnalysis/TelecomChurnAnalysisResult.png0)
 
 ## 🛠️ Tech Stack
 * **Language:** Python
